@@ -8,3 +8,4 @@ editor_options:
 ---
 
 Describe your project.
+This is a project to get me familiar with workflowr.
